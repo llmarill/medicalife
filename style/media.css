@@ -1,0 +1,354 @@
+@media (max-width: 1300px) {
+}
+@media (max-width: 1200px) {
+}
+@media (max-width: 1024px) {
+  .header {
+    display: flex;
+    justify-content: start;
+    gap: 715px;
+  }
+  .contact {
+    display: none;
+  }
+  .header button {
+    display: none;
+  }
+  .burger {
+    display: block;
+    font-size: 30px;
+    color: black;
+  }
+  .links a {
+    margin-left: 20px;
+    display: flex;
+    flex-direction: row;
+    padding: 0px 19px;
+    margin-left: 0px;
+  }
+  .girl {
+    width: 2000px;
+    height: 800px;
+    margin-left: -700px;
+  }
+  .spawns {
+    margin-top: -13px;
+    margin-left: 485px;
+    display: flex;
+    gap: 60px;
+  }
+  .social {
+    display: flex;
+    gap: 15px;
+    margin-left: 700px;
+    margin-top: -30px;
+    width: 100px;
+    height: 30px;
+  }
+  .text-med {
+    margin-top: -400px;
+    margin-left: 150px;
+    text-align: center;
+  }
+  .text-med span {
+    font-size: 23px;
+    margin-left: -200px;
+  }
+  .text-med h1 {
+    max-width: 900px;
+    margin-left: -100px;
+  }
+  .text-med p {
+    max-width: 650px;
+    font-size: 17px;
+  }
+  .blocks {
+    margin-top: 550px;
+    margin-left: 181px;
+  }
+  .med-girl {
+    margin-top: -10px;
+    margin-left: 200px;
+  }
+  /* .blue {
+    margin-top: -100px;
+  } */
+  .about-text {
+    margin-top: 100px;
+    margin-left: 200px;
+  }
+  .about-text span {
+    margin-left: -230px;
+  }
+  .button {
+    margin-left: 170px;
+  }
+  .about-text h1 {
+    text-align: center;
+  }
+  .about-text {
+    text-align: center;
+  }
+  .work {
+    margin-top: 120px;
+    margin-left: 200px;
+  }
+  .work h1 {
+    margin-left: 150px;
+  }
+  .work p {
+    text-align: center;
+  }
+  .back-text {
+    margin-left: 400px;
+  }
+  .back {
+    margin-left: 330px;
+  }
+  .back-2 {
+    margin-left: 345px;
+  }
+  .girl-img {
+    margin-top: 250px;
+    margin-left: 200px;
+  }
+  .appointment {
+    margin-left: 200px;
+    margin-top: -100px;
+  }
+  .app-text {
+    margin-top: 200px;
+    margin-left: 100px;
+    text-align: center;
+  }
+  .app-text span {
+    margin-left: -250px;
+  }
+  .app-text h1 {
+    max-width: 600px;
+    margin-left: -80px;
+  }
+  .app-text p {
+    margin-left: -80px;
+  }
+  .app-text button {
+    margin-left: -230px;
+  }
+  #appointment {
+    margin-bottom: -200px;
+  }
+  #our {
+    margin-top: -300px;
+    margin-bottom: -130px;
+  }
+  .our-text {
+    margin-left: 0px;
+  }
+  .our-team {
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+  }
+  .test-text {
+    margin-left: 50px;
+  }
+  .three {
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+  }
+  .three img {
+    margin-left: 180px;
+    margin-top: -150px;
+  }
+  .three p {
+    max-width: 500px;
+    text-align: center;
+  }
+  .three h1 {
+    margin-left: 180px;
+  }
+  .three h2 {
+    margin-left: 180px;
+  }
+  .footer {
+  }
+  .medicate {
+    margin-left: 390px;
+  }
+  .medicate p {
+    margin-left: -100px;
+    max-width: 400px;
+    text-align: center;
+  }
+  .logo-social {
+    margin-left: 400px;
+  }
+  .shrift {
+    display: none;
+  }
+  #procedures {
+    background: #f6f6f6;
+    margin-left: 0px;
+    margin-right: -200px;
+  }
+}
+@media (max-width: 768px) {
+  .burger {
+    margin-left: -220px;
+  }
+
+  .social img {
+    display: none;
+  }
+  .girl {
+    margin-left: -800px;
+  }
+  .service-text {
+    margin-top: -570px;
+    margin-left: 0px;
+  }
+  #procedures {
+    background: #f6f6f6;
+    width: 1200px;
+  }
+  .procedures {
+    margin-left: -150px;
+  }
+  .text-med span {
+    margin-left: -300px;
+  }
+  .text-med h1 {
+    margin-left: 20px;
+  }
+  .text-med p {
+    margin-left: 90px;
+  }
+
+  #about {
+    background: #fff;
+    width: 1200px;
+  }
+  .blue {
+    margin-left: 0px;
+  }
+  .max-girl {
+    margin-left: -510px;
+  }
+  .about-text {
+    margin-left: 150px;
+    width: 600px;
+  }
+  .about-text span {
+    margin-left: 0px;
+  }
+  .about-text h1 {
+    max-width: 900px;
+    margin-left: 0px;
+  }
+  .work {
+    margin-left: 150px;
+    width: 600px;
+  }
+  .girl-img img {
+    margin-left: 60px;
+  }
+  .appointment {
+    margin-left: 180px;
+  }
+  .back-text {
+    margin-left: 320px;
+  }
+  .back {
+    margin-left: 250px;
+  }
+  .back-2 {
+    margin-left: 265px;
+  }
+  #appointment {
+    width: 1200px;
+  }
+  .girl-img {
+    margin-left: 70px;
+  }
+  .appointment {
+    margin-left: 80px;
+  }
+  .blocks {
+    margin-top: 550px;
+    margin-left: 350px;
+  }
+  .app-text {
+    width: 700px;
+  }
+  #our {
+    width: 1200px;
+  }
+  .our-text {
+    width: 700px;
+    margin-left: -100px;
+  }
+  .our-team {
+    margin-left: -280px;
+  }
+  #test {
+    width: 1200px;
+  }
+  .test-text {
+    width: 600px;
+    margin-left: 150px;
+  }
+  .three {
+    margin-left: -300px;
+  }
+  .three p {
+    margin-left: 10px;
+    width: 400px;
+  }
+  #footer {
+    width: 1200px;
+  }
+  .medicate {
+    width: 300px;
+    margin-left: 300px;
+  }
+  .medicate p {
+    max-width: 340px;
+    margin-left: -10px;
+  }
+  .logo-social {
+    margin-left: 350px;
+  }
+}
+@media (max-width: 480px) {
+  .burger {
+    margin-left: -120px;
+  }
+  /* .blocks {
+    margin-top: 550px;
+    margin-left: 300px;
+  } */
+  .social {
+    margin-left: 930px;
+  }
+
+  #procedures {
+    width: 1200px;
+  }
+  #work {
+    background: #ffffff;
+    width: 1200px;
+  }
+  #footer {
+    width: 1200px;
+  }
+  .medicate {
+    margin-left: -220px;
+  }
+  .medicate h1 {
+    margin-left: 20px;
+  }
+  .logo-social {
+    margin-left: -200px;
+  }
+}
